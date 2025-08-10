@@ -1,5 +1,5 @@
 # jet-escape-android-game ✈️
-(game image.zip/s1.png)
+
 A simple game built with Jetpack Compose where you control a plane using a virtual joystick.
 
 ## Features
@@ -19,4 +19,16 @@ A simple game built with Jetpack Compose where you control a plane using a virtu
 3. Click Run
 
 ## Screenshots
-Coming soon!
+app icon : 
+(image/app_logo.png)
+
+jet image:
+(image/jep_small_copy.png)
+
+Game Screen:
+(image/s1.jpg)
+
+losing screen : 
+(image/jet_crash.jpg)
+
+
