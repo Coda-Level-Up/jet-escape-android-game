@@ -18,17 +18,17 @@ A simple game built with Jetpack Compose where you control a plane using a virtu
 2. Open in Android Studio
 3. Click Run
 
-## Screenshots
+♧## Screenshots
 app icon : 
-(image/app_logo.png)
+[image/app_logo.png]
 
 jet image:
-(image/jep_small_copy.png)
+(image\jep_small_copy.png)
 
 Game Screen:
-(image/s1.jpg)
+[image\s1.jpg]
 
 losing screen : 
-(image/jet_crash.jpg)
+( image/jet_crash.jpg )
 
 
