@@ -1,5 +1,5 @@
 # jet-escape-android-game ✈️
-
+(game image.zip/s1.png)
 A simple game built with Jetpack Compose where you control a plane using a virtual joystick.
 
 ## Features
